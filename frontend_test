@@ -1,0 +1,14 @@
+app.express =express()
+app.port=3000
+
+app.use(require.express)
+app.post(res,req) =>
+{
+    req.json(http://20.244.56.144/evaluation-service/register)
+    res.json({ message:
+    "email":"ramakrishna@abc.edu"
+     "name":"RamaKrishna"
+     "mobileno:9999999999
+
+
+   });
